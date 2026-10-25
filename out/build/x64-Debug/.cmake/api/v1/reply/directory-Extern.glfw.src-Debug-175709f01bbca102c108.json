@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Extern/glfw/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 340,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"Extern/glfw/src/glfw3.lib"
+			],
+			"targetId" : "glfw::@ccadc7a1c75b3fa84ecd",
+			"targetIndex" : 37,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Extern/glfw/src",
+		"source" : "Extern/glfw/src"
+	}
+}
