@@ -62,32 +62,32 @@ This simulator was engineered with a strict focus on **separation of concerns** 
 
 ### Initial Application
 Initial Application
-<img src ="Docs/images/Initial.png" alt="Initial Application Image" width = "800">
+<img src ="Docs/Images/Initial.png" alt="Initial Application Image" width = "800">
 
 ### Job Status
 Job Status window tracking current job status for current frame
-<img src ="Docs/images/JobStatus.png" alt ="Job Status Window" 
+<img src ="Docs/Images/JobStatus.png" alt ="Job Status Window" 
 width = "800">
 
 ### Main Control
 Main Control for current frame
-<img src ="Docs/images/MainControls.png" alt="Main Control Window"
+<img src ="Docs/Images/MainControls.png" alt="Main Control Window"
 width = "800">
 
 ### Task Configuration
 Allows user to change current task configuration with
 apply and reset to actually apply changes
-<img src ="Docs/images/TaskConfiguration.png" alt="Main Control Window"
+<img src ="Docs/Images/TaskConfiguration.png" alt="Main Control Window"
 width = "800">
 
 ### Task Info
 show current task information
-<img src ="Docs/images/TaskInfo.png" alt="Main Control Window"
+<img src ="Docs/Images/TaskInfo.png" alt="Main Control Window"
 width = "800">
 
 ### Execution Timeline (Gantt Chart)
 Custom-rendered multi-tick timeline tracking task states (`RUNNING(Green)`, `READY(Yellow)`, `COMPLETED(Blue)`) alongside an explicit CPU Idle row.
-<img src="Docs/images/Gantt.png" alt="RTOS Timeline" width="800" />
+<img src="Docs/Images/Gantt.png" alt="RTOS Timeline" width="800" />
 
 ---
 
