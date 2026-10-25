@@ -63,7 +63,6 @@ This simulator was engineered with a strict focus on **separation of concerns** 
 <div align="center">
 
 ### Initial Application
-Initial Application
 <br>
 <img src ="Docs/Images/Initial.png" alt="Initial Application Image" width = "800">
 
