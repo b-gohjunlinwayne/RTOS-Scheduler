@@ -112,5 +112,5 @@ Custom-rendered multi-tick timeline tracking task states (`RUNNING(Green)`, `REA
 ## 👤 Author
 
 **Goh Jun Lin Wayne**  
-* [GitHub Profile]
-* [LinkedIn Profile]
+* [GitHub Profile]   https://github.com/b-gohjunlinwayne
+* [LinkedIn Profile] https://www.linkedin.com/in/gohjunlinwayne/
